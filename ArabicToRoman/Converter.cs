@@ -1,5 +1,9 @@
-﻿namespace ArabicToRoman;
+﻿/// <summary> ArabicToRoman </summary>
+/// <author>Svitlana Bakun</author>
+/// <project>ArabicToRoman</project>
+/// <version>1.0.0</version>
 
+namespace ArabicToRoman;
 public static class Converter
 {
     private static Dictionary<int, string> _values = new Dictionary<int, string>()

@@ -1,10 +1,9 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ArabicToRoman;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
+/// <summary> ArabicToRoman Testing </summary>
+/// <author>Svitlana Bakun</author>
+/// <project>ArabicToRomanTests</project>
+/// <version>1.0.0</version>
 
 namespace ArabicToRoman.Tests;
 
